@@ -1,4 +1,6 @@
 # Laptop Recommender
+
+There are 600 laptop models on flipkart.com
 ````
 Please view the screenshots (.png files) to see the execution 
 ````
