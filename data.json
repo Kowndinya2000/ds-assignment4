@@ -1,0 +1,56 @@
+{
+        "Laptop" : "", 
+        "Sales Package" : "",
+        "Model Number" : "",
+        "Part Number" : "",
+        "Series" : "",
+        "Color" : "",
+        "Type" : "",
+        "Suitable For" : "",
+        "Battery Cell" : "",
+        "MS Office Provided" : "",
+
+        "Processor Brand" : "",
+        "Processor Name" : "",
+        "Processor Generation" : "",
+        "SSD" : "",
+        "SSD Capacity" : "",
+        "RAM" : "",
+        "RAM Type" : "",
+        "Clock Speed" : "",
+        "RAM Frequency" : "",
+        "Cache" : "",
+        "Graphic Processor" : "",
+        "Number of Cores" : "",
+
+        "OS Architecture" : "",
+        "Operating System" : "",
+        "System Architecture" : "",
+
+        "Mic In" : "",
+        "RJ45": "",
+        "USB Port" : "",
+        "HDMI Port" : "",
+        "Multi Card Slot" : "",
+
+        "Touchscreen" : "",
+        "Screen Size" : "",
+        "Screen Resolution" : "",
+        "Screen Type" : "",
+        "Speakers" : "",
+        "Internal Mic" : "",
+
+        "Disk Drive" : "",
+        "Web Camera" : "",
+        "Keyboard" : "",
+        "Pointer Device" : "",
+        "Included Software" : "",
+        "Additional Features" : "",
+        
+        "Warranty Summary" : "",
+        "Warranty Service Type" : "",
+        "Covered in Warranty" : "",
+        "Not Covered in Warranty" : "",
+        "Domestic Warranty" : ""  
+
+}
